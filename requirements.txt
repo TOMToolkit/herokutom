@@ -1,3 +1,4 @@
+dataclasses
 django
 https://github.com/TOMToolkit/tom_base/archive/master.zip
 gunicorn
