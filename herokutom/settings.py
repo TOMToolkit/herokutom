@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'tom_alerts',
     'tom_catalogs',
     'tom_observations',
+    'tom_dataproducts',
 ]
 
 SITE_ID = 1
@@ -173,6 +174,10 @@ FACILITIES = {
         'api_key': '',
     }
 }
+
+EXTRA_FIELDS = [
+    {'name': 'species', 'type': 'string'}
+]
 
 HOOKS = {
     'target_post_save': 'tom_common.hooks.target_post_save',
