@@ -1,5 +1,5 @@
 dataclasses
 django
-https://github.com/TOMToolkit/tom_base/archive/71fea4e5534069eab2b58e21689e0c88f0622224.zip
+tomtoolkit==0.0.2
 gunicorn
 django-heroku
