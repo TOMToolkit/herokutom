@@ -176,7 +176,7 @@ FACILITIES = {
 }
 
 EXTRA_FIELDS = [
-    {'name': 'species', 'type': 'string'}
+    {'name': 'rbclass', 'type': 'number'}
 ]
 
 HOOKS = {
