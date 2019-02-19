@@ -1,5 +1,5 @@
 dataclasses
 django
-tomtoolkit==0.0.2
+tomtoolkit==0.1.0
 gunicorn
 django-heroku
