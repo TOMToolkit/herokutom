@@ -3,3 +3,5 @@ django
 tomtoolkit==0.1.0
 gunicorn
 django-heroku
+django-storages
+boto3
